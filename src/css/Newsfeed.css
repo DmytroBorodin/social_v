@@ -1,0 +1,25 @@
+.component__wrapper.newsfeed {
+  max-width: 100rem;
+  width: 100%;
+  padding-bottom: 1.5rem;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+}
+.component__wrapper.newsfeed .left__side {
+  width: calc(65.5% - 1.5rem);
+  margin-right: 1.5rem;
+  height: 100%;
+}
+.component__wrapper.newsfeed .right__side {
+  width: 34.5%;
+  background: #fff;
+  border-radius: 0.7rem;
+  padding: 1.5rem;
+}
+
+.posts__block {
+  padding-bottom: 1.5rem;
+}
+
+/*# sourceMappingURL=Newsfeed.css.map */
